@@ -162,16 +162,17 @@ Advantages
 Large Language Models are deep learning models trained on massive amounts of text data. They understand language patterns and generate meaningful responses.
 
 Popular LLMs
-GPT-4
-Llama
-Gemini
-Claude
-Mistral
+1) GPT-4.
+2) Llama.
+3) Gemini.
+4) Claude.
+5) Mistral.
+   
 Working Process
-Collect large text datasets.
-Train using Transformer architecture.
-Learn language patterns.
-Generate responses based on prompts.
+1) Collect large text datasets.
+2) Train using Transformer architecture.
+3) Learn language patterns.
+4) Generate responses based on prompts.
 
 <img width="2816" height="1536" alt="img4" src="https://github.com/user-attachments/assets/bdf3d195-06f3-4fc9-b65f-85078dd05294" />
 
@@ -195,47 +196,55 @@ Generative AI is widely used in many industries.
 
 Scaling means increasing:
 
-Model parameters
-Training data
-Computing power
+1) Model parameters.
+2) Training data.
+3) Computing power.
+   
 Benefits
-Better language understanding
-Improved reasoning
-More accurate responses
-Better multilingual support
+1) Better language understanding.
+2) Improved reasoning.
+3) More accurate responses.
+4) Better multilingual support.
+   
 Challenges
-High computational cost
-Increased energy consumption
-Model bias
-Privacy concerns
-Hallucinations (incorrect information)
+1) High computational cost.
+2) Increased energy consumption.
+3) Model bias.
+4) Privacy concerns.
+5) Hallucinations (incorrect information).
+   
 ### 7. Advantages of Generative AI
-Automates repetitive tasks.
-Saves time.
-Improves productivity.
-Generates creative content.
-Supports multiple languages.
-Assists in coding and education.
-Enhances customer service.
+
+1) Automates repetitive tasks.
+2) Saves time.
+3) Improves productivity.
+4) Generates creative content.
+5) Supports multiple languages.
+6) Assists in coding and education.
+7) Enhances customer service.
+
 ### 8. Limitations and Ethical Issues
+
 Limitations
-May generate incorrect information.
-Requires large computational resources.
-Depends heavily on training data.
-Ethical Concerns
-Copyright issues.
-Fake content (Deepfakes).
-Bias in AI models.
-Privacy and security risks.
+1) May generate incorrect information.
+2) Requires large computational resources.
+3) Depends heavily on training data.
+   
+   Ethical Concerns
+1) Copyright issues.
+2) Fake content (Deepfakes).
+3) Bias in AI models.
+4) Privacy and security risks.
+   
 ### 9. Future Trends
 
 Future developments include:
 
-Smaller and faster AI models.
-Better reasoning capabilities.
-AI agents performing complex tasks.
-Improved multimodal AI (text, image, audio, and video together).
-Stronger AI safety and ethical regulations.
+1) Smaller and faster AI models.
+2) Better reasoning capabilities.
+3) AI agents performing complex tasks.
+4) Improved multimodal AI (text, image, audio, and video together).
+5) Stronger AI safety and ethical regulations.
 
 ## Result
 
