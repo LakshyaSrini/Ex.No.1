@@ -15,23 +15,30 @@ Develop a comprehensive report for the following exercises:
 1.2 Set the target audience level (e.g., students, professionals).
 
 1.3 Draft a list of core topics to cover.
-Step 2: Create Report Skeleton/Structure
-2.1 Title Page
-2.2 Abstract or Executive Summary
-2.3 Table of Contents
-2.4 Introduction
+
+# Step 2: Create Report Skeleton/Structure
+2.1 Title Page.
+
+2.2 Abstract or Executive Summary.
+
+2.3 Table of Contents.
+
+2.4 Introduction.
+
 2.5 Main Body Sections:
-•	Introduction to AI and Machine Learning
-•	What is Generative AI?
-•	Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models)
-•	Introduction to Large Language Models (LLMs)
-•	Architecture of LLMs (e.g., Transformer, GPT, BERT)
-•	Training Process and Data Requirements
-•	Use Cases and Applications (Chatbots, Content Generation, etc.)
-•	Limitations and Ethical Considerations
-•	Future Trends
-2.6 Conclusion
-2.7 References
+•	Introduction to AI and Machine Learning.
+•	What is Generative AI?.
+•	Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models).
+•	Introduction to Large Language Models (LLMs).
+•	Architecture of LLMs (e.g., Transformer, GPT, BERT).
+•	Training Process and Data Requirements.
+•	Use Cases and Applications (Chatbots, Content Generation, etc.).
+•	Limitations and Ethical Considerations.
+•	Future Trends.
+
+2.6 Conclusion.
+
+2.7 References.
 ________________________________________
 Step 3: Research and Data Collection
 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI)
