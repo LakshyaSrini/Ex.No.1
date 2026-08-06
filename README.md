@@ -230,7 +230,7 @@ Limitations
 2) Requires large computational resources.
 3) Depends heavily on training data.
    
-   Ethical Concerns
+Ethical Concerns
 1) Copyright issues.
 2) Fake content (Deepfakes).
 3) Bias in AI models.
